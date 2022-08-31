@@ -52,4 +52,5 @@ E-commerce
    9. if route exists render it, else render Error404
    10. create screen/Error404.js and render error message
 
+6. 
 
