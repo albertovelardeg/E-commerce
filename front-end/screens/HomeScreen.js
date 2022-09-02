@@ -31,5 +31,12 @@ const HomeScreen = {
     `
   }
 }
+
+n1 = 1
+n2 = 2
+let suma = n1+n2
+console.log(suma)
+    
+    
 export default HomeScreen;      
   
